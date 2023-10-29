@@ -56,7 +56,7 @@ class UploadController extends AbstractController
             'text_color' => '#FFF',
             'width' => 800,
             'height' => 2000,
-            'font_file' => $this->storageDirectory.'fonts/OpenSans-Semibold.ttf',
+            'font_file' => $this->storageDirectory.'fonts/OpenSans-Bold.ttf',
             'font_size' => 30
         ];
 
